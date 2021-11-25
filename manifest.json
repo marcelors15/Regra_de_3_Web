@@ -1,11 +1,11 @@
 {
-    "name": "regra_3",
-    "short_name": "regra_3",
+    "name": "Flutter_Testes",
+    "short_name": "Flutter_Testes",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Aplicativo para calcular regra de 3",
+    "description": "Projeto Flutter para testes",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
