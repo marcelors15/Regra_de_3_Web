@@ -1,11 +1,11 @@
 {
-    "name": "regra_3",
-    "short_name": "regra_3",
+    "name": "email_phone",
+    "short_name": "email_phone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Aplicativo para calcular regra de 3",
+    "description": "Programa para enviar  e-mails e  fazer ligações telefônicas",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
