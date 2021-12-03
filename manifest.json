@@ -1,11 +1,11 @@
 {
-    "name": "supabase_project",
-    "short_name": "supabase_project",
+    "name": "regra_3",
+    "short_name": "regra_3",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Supabase project",
+    "description": "Aplicativo para calcular regra de 3",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
