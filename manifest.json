@@ -1,11 +1,11 @@
 {
-    "name": "email_phone",
-    "short_name": "email_phone",
+    "name": "supabase_project",
+    "short_name": "supabase_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Programa para enviar  e-mails e  fazer ligações telefônicas",
+    "description": "Supabase project",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -3,11 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+  "assets/AssetManifest.json": "a991cc25889ce924ac0fe2f62a06fb72",
+"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "d7f16e6eabc43f2dc2651c0db9b8ac04",
+"assets/images/icon_teste.png": "c4688c3c7ae3d9325e1592404b5897b2",
+"assets/NOTICES": "3f3d5c52ac642f0dbe5b48e0139aebf5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b37ae0f14cbc958316fac4635383b6e8",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5178af1d278432bec8fc830d50996d6f",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa1ec80f1b30a51d64c72f669c1326a7",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
 "canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
@@ -15,11 +19,11 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0d03da6dec30cc4c5b4a3e9414d9f0c1",
-"/": "0d03da6dec30cc4c5b4a3e9414d9f0c1",
-"main.dart.js": "9847dbada9baf0f7f58e0597e7297aa8",
-"manifest.json": "deb9c7c7a608195a8fe0a415c183de98",
-"version.json": "496fa87df1f28bf1759a7cd7474edf9c"
+"index.html": "cc05cf95863cc796d2138272a16057f7",
+"/": "cc05cf95863cc796d2138272a16057f7",
+"main.dart.js": "c007df7106b1b1e67309e7cc1a546be6",
+"manifest.json": "327be8a447bf0391d96c63a064d336bc",
+"version.json": "b841a87a2a110d99955609f8efd9be34"
 };
 
 // The application shell files that are downloaded before a service worker can
